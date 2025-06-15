@@ -1,0 +1,6 @@
+Experiment: drift01
+Date: 2024-05-19 evening to 2024-05-21 morning
+Hardware: Keysight N9952A 50GHz FieldFox - Anritsu 3670V50 1.85mm VNA Cable
+Calibration: 85056D 2.4mm Cal Kit, applied to end of VNA cable several hours before experiment start
+Time: hours = i*0.26
+Post-Cal: Measured the following standards
