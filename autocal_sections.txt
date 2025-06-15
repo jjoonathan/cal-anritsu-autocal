@@ -1,0 +1,52 @@
+so1o2o3o4  Short Short
+so2o3o4    Open  Short
+so1o2o4    Short Open
+so3o4      Load1 Short
+so1o4      Short Load1
+so2o3      Load2 Short
+so1o2      Short Load2
+so3        Load3 Short
+so1        Short Load3
+so2o4      Thru1
+so4        Thru2
+so2        Thru3
+s          Thru4
+
+
+
+
+
+Load1.L
+Load1.R
+
+Load2.L
+Load2.R
+
+Load3.L
+Load3.R
+
+Open.L
+Open.R
+
+Short.L
+Short.R
+
+Thru1.11
+Thru1.12
+Thru1.21
+Thru1.22
+
+Thru2.11
+Thru2.12
+Thru2.21
+Thru2.22
+
+Thru3.11
+Thru3.12
+Thru3.21
+Thru3.22
+
+Thru4.11
+Thru4.12
+Thru4.21
+Thru4.22
